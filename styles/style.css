@@ -28,6 +28,9 @@ body {
   border-bottom: none;
 }
 
+.unmarked_line {
+  list-style: none;
+}
 .header__logo {
   display: block;
   width: 148px;
